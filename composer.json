@@ -1,0 +1,25 @@
+{
+  "name": "sof3/webconsole-lib",
+  "type": null,
+  "require": {
+    "sof3/await-generator": "dev-safe-race",
+    "sof3/webconsole-api": "dev-master",
+    "pocketmine/pocketmine-mp": "^4.13.0"
+  },
+  "autoload": {
+    "classmap": [
+      "src"
+    ]
+  },
+  "authors": [
+    {
+      "name": "SOFe",
+      "email": "sofe2038@gmail.com"
+    }
+  ],
+  "license": "Apache-2.0",
+  "x-virion": {
+    "spec": "3.0",
+    "namespace-root": "SOFe\\WebConsole\\Lib"
+  }
+}
