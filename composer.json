@@ -2,8 +2,8 @@
   "name": "sof3/webconsole-lib",
   "type": null,
   "require": {
-    "sof3/await-generator": "dev-safe-race",
-    "sof3/webconsole-api": "dev-master",
+    "sof3/await-generator": "dev-pubsub-topic",
+    "sof3/webconsole-api": "dev-feat/log-list",
     "pocketmine/pocketmine-mp": "^4.13.0"
   },
   "autoload": {
