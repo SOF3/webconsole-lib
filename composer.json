@@ -3,7 +3,7 @@
   "type": null,
   "require": {
     "sof3/await-generator": "dev-master",
-    "sof3/webconsole-api": "dev-master",
+    "sof3/webconsole-api": "dev-mutable-fields",
     "pocketmine/pocketmine-mp": "^4.13.0"
   },
   "autoload": {
